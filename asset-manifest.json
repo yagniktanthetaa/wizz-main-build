@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.90d7fe7e.chunk.css",
-    "main.js": "/static/js/main.ce69a267.chunk.js",
-    "main.js.map": "/static/js/main.ce69a267.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6d4086c1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6d4086c1.js.map",
+    "main.css": "/static/css/main.8d88562b.chunk.css",
+    "main.js": "/static/js/main.86887b93.chunk.js",
+    "main.js.map": "/static/js/main.86887b93.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70f54c02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70f54c02.js.map",
     "static/css/2.e1926129.chunk.css": "/static/css/2.e1926129.chunk.css",
-    "static/js/2.ea65ab1a.chunk.js": "/static/js/2.ea65ab1a.chunk.js",
-    "static/js/2.ea65ab1a.chunk.js.map": "/static/js/2.ea65ab1a.chunk.js.map",
-    "static/js/3.c89d1bcb.chunk.js": "/static/js/3.c89d1bcb.chunk.js",
-    "static/js/3.c89d1bcb.chunk.js.map": "/static/js/3.c89d1bcb.chunk.js.map",
+    "static/js/2.0f38a5f0.chunk.js": "/static/js/2.0f38a5f0.chunk.js",
+    "static/js/2.0f38a5f0.chunk.js.map": "/static/js/2.0f38a5f0.chunk.js.map",
+    "static/js/3.14b67338.chunk.js": "/static/js/3.14b67338.chunk.js",
+    "static/js/3.14b67338.chunk.js.map": "/static/js/3.14b67338.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e1926129.chunk.css.map": "/static/css/2.e1926129.chunk.css.map",
-    "static/css/main.90d7fe7e.chunk.css.map": "/static/css/main.90d7fe7e.chunk.css.map",
-    "static/js/2.ea65ab1a.chunk.js.LICENSE.txt": "/static/js/2.ea65ab1a.chunk.js.LICENSE.txt",
+    "static/css/main.8d88562b.chunk.css.map": "/static/css/main.8d88562b.chunk.css.map",
+    "static/js/2.0f38a5f0.chunk.js.LICENSE.txt": "/static/js/2.0f38a5f0.chunk.js.LICENSE.txt",
     "static/media/1.1bee5491.png": "/static/media/1.1bee5491.png",
     "static/media/1.f9fcaaf7.jpg": "/static/media/1.f9fcaaf7.jpg",
     "static/media/2.5579a734.jpg": "/static/media/2.5579a734.jpg",
@@ -27,6 +27,7 @@
     "static/media/Everyone.60c14b42.svg": "/static/media/Everyone.60c14b42.svg",
     "static/media/MyLogoHeader.ff1d4eaf.png": "/static/media/MyLogoHeader.ff1d4eaf.png",
     "static/media/MyLogoHeader2.09c1ef98.png": "/static/media/MyLogoHeader2.09c1ef98.png",
+    "static/media/NFTAIR Ticket.d2567b19.gif": "/static/media/NFTAIR Ticket.d2567b19.gif",
     "static/media/Simple-black.d5383101.svg": "/static/media/Simple-black.d5383101.svg",
     "static/media/Simple.9c9e61e5.svg": "/static/media/Simple.9c9e61e5.svg",
     "static/media/HomeDemo4.scss": "/static/media/pattern.2be3aa0c.png",
@@ -80,10 +81,10 @@
     "static/media/whitepaper.69a47ae1.png": "/static/media/whitepaper.69a47ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d4086c1.js",
+    "static/js/runtime-main.70f54c02.js",
     "static/css/2.e1926129.chunk.css",
-    "static/js/2.ea65ab1a.chunk.js",
-    "static/css/main.90d7fe7e.chunk.css",
-    "static/js/main.ce69a267.chunk.js"
+    "static/js/2.0f38a5f0.chunk.js",
+    "static/css/main.8d88562b.chunk.css",
+    "static/js/main.86887b93.chunk.js"
   ]
 }
